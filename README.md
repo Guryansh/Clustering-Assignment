@@ -26,11 +26,11 @@ This project showcases the implementation of clustering algorithms, including **
 
 ## Usage
 
-This script:
+These notebooks:
 - Loads the Facebook dataset.
-- Applies KMeans clustering for cluster counts (3, 4, 5).
+- Applies KMeans clustering, Hierarchical clustering and KMean Shift clustering for cluster counts (3, 4, 5).
 - Evaluates performance using metrics like Silhouette, Calinski-Harabasz, and Davies-Bouldin scores.
-- Saves result images and tables in the `results/` folder.
+- Saves result tables in the folder.
 
 ---
 
